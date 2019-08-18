@@ -7,3 +7,9 @@
 - Bootsraps 4
 - Codeigniter 3
 - Login template by mfikri.com
+
+##This WebApp will have some feature like
+
+- Multi User Login
+- Creating unlimited Notes
+- Edit and Delete Notes
